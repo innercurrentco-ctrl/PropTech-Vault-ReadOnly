@@ -1,0 +1,17 @@
+# Obsidian system folders
+.obsidian/
+.obsidian-*
+.obsidian-git/
+
+# Backups, temp files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local-only or sensitive content
+private/
+drafts/
+finance/
