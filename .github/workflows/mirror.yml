@@ -1,0 +1,27 @@
+name: Mirror to Public Repo
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Clean and filter only markdown/csv files
+        run: |
+          find . -type f ! -name "*.md" ! -name "*.csv" -not -path "./.git/*" -delete
+
+      - name: Push to public mirror
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: |
+          git config --global user.name "InnCurrentBot"
+          git config --global user.email "bot@innercurrent.local"
+          git remote add mirror https://innercurrentco-ctrl:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
+          git push --mirror mirror
