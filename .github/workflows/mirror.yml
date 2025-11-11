@@ -12,7 +12,7 @@ jobs:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # full history for mirror push
+          fetch-depth: 0 # full history for mirror push
 
       - name: Clean and filter only markdown/csv files
         run: |
@@ -23,6 +23,6 @@ jobs:
           MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
         run: |
           git config --global user.name "InnerCurrentBot"
-          git remote add mirror https://${{ secrets.MIRROR_TOKEN }}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
-          git push --mirror mirror
+          git config --global user.email "bot@innercurrentco.ctrl"
+          git remote add mirror https://x-access-token:${{ secrets.MIRROR_TOKEN }}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
           git push --mirror mirror
