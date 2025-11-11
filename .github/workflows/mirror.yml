@@ -1,15 +1,25 @@
-- name: Push to public mirror
-  env:
-    MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
-  run: |
-    set -e
-    git config --global user.name "InnerCurrentBot"
-    git config --global user.email "bot@innercurrentco.ctrl"
+    - name: Checkout source
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0            # full history for mirror
+        persist-credentials: false  # <- IMPORTANT: don't use GITHUB_TOKEN for pushes
 
-    git remote remove mirror || true
-    git remote add mirror "https://innercurrentco-ctrl:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git"
+    - name: Push to public mirror
+      env:
+        MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+      run: |
+        set -e
+        git config --global user.name  "InnerCurrentBot"
+        git config --global user.email "bot@innercurrentco.ctrl"
 
-    # sanity check (URL will show ***** where the token is)
-    git remote -v
+        # Ensure no stale remote
+        git remote remove mirror || true
 
-    git push --mirror mirror
+        # Add mirror with PAT; 'x-access-token' is the recommended username
+        git remote add mirror "https://x-access-token:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git"
+
+        # Sanity check (token will be masked)
+        git remote -v
+
+        # Mirror everything (branches, tags, refs)
+        git push --mirror mirror
