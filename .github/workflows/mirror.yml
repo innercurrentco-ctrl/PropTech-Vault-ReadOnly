@@ -1,25 +1,32 @@
-    - name: Checkout source
-      uses: actions/checkout@v4
-      with:
-        fetch-depth: 0            # full history for mirror
-        persist-credentials: false  # <- IMPORTANT: don't use GITHUB_TOKEN for pushes
+name: Mirror to Public Repo
 
-    - name: Push to public mirror
-      env:
-        MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
-      run: |
-        set -e
-        git config --global user.name  "InnerCurrentBot"
-        git config --global user.email "bot@innercurrentco.ctrl"
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
 
-        # Ensure no stale remote
-        git remote remove mirror || true
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false  # do NOT use GITHUB_TOKEN for pushes
 
-        # Add mirror with PAT; 'x-access-token' is the recommended username
-        git remote add mirror "https://x-access-token:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git"
+      - name: Clean and filter only markdown/csv files
+        run: |
+          find . -type f ! -name "*.md" ! -name "*.csv" -not -path "./.git/*" -delete
 
-        # Sanity check (token will be masked)
-        git remote -v
-
-        # Mirror everything (branches, tags, refs)
-        git push --mirror mirror
+      - name: Push to public mirror
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: |
+          set -e
+          git config --global user.name "InnerCurrentBot"
+          git config --global user.email "bot@innercurrentco.ctrl"
+          git remote remove mirror || true
+          git remote add mirror "https://x-access-token:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git"
+          git remote -v
+          git push --mirror mirror
