@@ -2,8 +2,7 @@ name: Mirror to Public Repo
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
@@ -12,6 +11,8 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history for mirror push
 
       - name: Clean and filter only markdown/csv files
         run: |
@@ -21,7 +22,7 @@ jobs:
         env:
           MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
         run: |
-          git config --global user.name "InnCurrentBot"
+          git config --global user.name "InnerCurrentBot"
           git config --global user.email "bot@innercurrent.local"
-          git remote add mirror https://innercurrentco-ctrl:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
+          git remote add mirror https://x-access-token:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
           git push --mirror mirror
