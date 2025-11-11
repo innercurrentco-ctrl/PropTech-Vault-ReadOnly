@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4af01f6417833b1f",
+        "id": "2bd543b1c1e501fb",
         "type": "tabs",
         "children": [
           {
-            "id": "92c2f0d90de4c923",
+            "id": "b13cfe2d117d7fa2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks"
             }
           },
           {
@@ -169,9 +164,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "92c2f0d90de4c923",
+  "active": "b13cfe2d117d7fa2",
   "lastOpenFiles": [
-    "New Text Document.txt",
-    "Welcome.md"
+    "2_Funding_&_Grants/247E1000",
+    "PropTech_Funding.md",
+    "05",
+    "README.md",
+    "2_Funding_&_Grants/Untitled",
+    "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
+    "Welcome.md",
+    "Templates",
+    "4_Execution_&_Automation",
+    "3_Product_Development",
+    "0_Company_Overview",
+    "2_Funding_&_Grants",
+    "1_Research_and_Learning",
+    "New Text Document.txt"
   ]
 }
