@@ -26,3 +26,4 @@ jobs:
           git config --global user.email "bot@innercurrentco.ctrl"
           git remote add mirror https://x-access-token:${{ secrets.MIRROR_TOKEN }}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git
           git push --mirror mirror
+
