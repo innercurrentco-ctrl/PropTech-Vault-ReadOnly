@@ -11,10 +11,14 @@
             "id": "b13cfe2d117d7fa2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0_Company_Overview/InnCurrent_Proptech_Summary.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "InnCurrent_Proptech_Summary"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0_Company_Overview/InnCurrent_Proptech_Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for InnCurrent_Proptech_Summary"
             }
           },
           {
@@ -166,6 +171,10 @@
   },
   "active": "b13cfe2d117d7fa2",
   "lastOpenFiles": [
+    "Welcome.md",
+    "0_Company_Overview/InnCurrent_Proptech_Summary.md",
+    "Untitled.md",
+    "Untitled",
     "2_Funding_&_Grants/1EE2B100",
     "2_Funding_&_Grants/247E1000",
     "PropTech_Funding.md",
@@ -173,12 +182,9 @@
     "README.md",
     "2_Funding_&_Grants/Untitled",
     "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
-    "Welcome.md",
     "Templates",
     "4_Execution_&_Automation",
     "3_Product_Development",
-    "0_Company_Overview",
-    "2_Funding_&_Grants",
-    "1_Research_and_Learning"
+    "0_Company_Overview"
   ]
 }
