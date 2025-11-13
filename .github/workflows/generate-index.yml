@@ -1,0 +1,40 @@
+name: Auto Generate Vault Index
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - ".github/workflows/**"
+      - "vault_index.md"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run script to generate vault_index.md
+        run: python generate_vault_index.py
+
+      - name: Commit and push changes to public repo
+        env:
+          MIRROR_TOKEN: ${{ secrets.MIRROR_TOKEN }}
+        run: |
+          git config --global user.name "InnerCurrentBot"
+          git config --global user.email "bot@innercurrentco.ctrl"
+          git add vault_index.md
+          git diff --cached --quiet || git commit -m "📚 Auto-update vault_index.md"
+          git remote add mirror "https://x-access-token:${MIRROR_TOKEN}@github.com/innercurrentco-ctrl/PropTech-Vault-ReadOnly.git"
+          git push mirror HEAD:main
