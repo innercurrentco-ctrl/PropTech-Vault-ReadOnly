@@ -11,14 +11,17 @@
             "id": "691eadfa967302f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Testing Number 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 60,
+                  "y": 15.5,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Testing Number 3"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing Number 3.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Testing Number 3"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -169,11 +172,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b200db5e3ec478b",
+  "active": "691eadfa967302f8",
   "lastOpenFiles": [
+    "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
+    "3_Product_Development/proptech_mvp_brief.md",
+    "Untitled.canvas",
+    "Testing Number 3.md",
     "2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx",
     "1_Research_and_Learning/Untitled.md",
-    "Testing Number 3.md",
     "Testing.md",
     "Testing Overall Automation of this Archive-Learning Structures between Obsidian-Github into Vault-Index.md for GPT to Review.md",
     "Vault_Index.md.md",
@@ -189,7 +195,6 @@
     "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
     "Templates",
     "4_Execution_&_Automation",
-    "3_Product_Development",
-    "0_Company_Overview"
+    "3_Product_Development"
   ]
 }

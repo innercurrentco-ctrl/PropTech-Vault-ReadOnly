@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"8cea3e828e3c7e47","x":100,"y":-409,"width":400,"height":400,"type":"file","file":"2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx"},
+		{"id":"5af6dcbcf31866ca","x":100,"y":40,"width":400,"height":400,"type":"file","file":"2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv"},
+		{"id":"e361462d4da45116","x":-380,"y":-209,"width":395,"height":400,"type":"file","file":"3_Product_Development/proptech_mvp_brief.md"}
+	],
+	"edges":[]
+}
