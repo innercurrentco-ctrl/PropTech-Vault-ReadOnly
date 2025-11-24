@@ -11,17 +11,14 @@
             "id": "691eadfa967302f8",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 60,
-                  "y": 15.5,
-                  "zoom": 0
-                }
+                "file": "create a link.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "create a link"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for create a link"
             }
           },
           {
@@ -174,9 +171,12 @@
   },
   "active": "691eadfa967302f8",
   "lastOpenFiles": [
+    "create a link.md",
+    "3_Product_Development/proptech_membership_model (1.0).md",
+    "3_Product_Development/proptech_membership_model.md",
+    "Untitled.canvas",
     "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
     "3_Product_Development/proptech_mvp_brief.md",
-    "Untitled.canvas",
     "Testing Number 3.md",
     "2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx",
     "1_Research_and_Learning/Untitled.md",
@@ -194,7 +194,6 @@
     "2_Funding_&_Grants/Untitled",
     "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
     "Templates",
-    "4_Execution_&_Automation",
-    "3_Product_Development"
+    "4_Execution_&_Automation"
   ]
 }

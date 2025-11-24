@@ -1,4 +1,4 @@
-**PropTech MVP Project Brief & GTM Blueprint**
+*PropTech MVP Project Brief & GTM Blueprint**
 
 ---
 
