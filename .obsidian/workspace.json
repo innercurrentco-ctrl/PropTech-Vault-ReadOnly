@@ -55,16 +55,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
+                "file": "3_Product_Development/Brain_Dump_PropTech.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE"
+              "title": "Brain_Dump_PropTech"
+            }
+          },
+          {
+            "id": "34ebbf0efa389641",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE"
+              "title": "Backlinks"
             }
           },
           {
@@ -212,13 +223,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "ba3356d04ec96199",
+  "active": "34ebbf0efa389641",
   "lastOpenFiles": [
+    "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
+    "3_Product_Development/Brain_Dump_PropTech.md",
     "3_Product_Development/No Code Study Plan.md",
     "3_Product_Development/No Code Learning (Self).md",
     "3_Product_Development/No Code Learning - Online Resources.md",
     "3_Product_Development/proptech_mvp_brief.md",
-    "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
     "3_Product_Development/PropTech Names (Potential).md",
     "1. Earth Grid (perhaps as product name for PropTech).md",
     "3_Product_Development/proptech_membership_model (1.0).md",
