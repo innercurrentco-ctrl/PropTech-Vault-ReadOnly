@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "PropTech Names (Potential)"
             }
+          },
+          {
+            "id": "1174454f84d02551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PropTech - NODEARA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PropTech - NODEARA"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -207,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Product_Development/PropTech Names (Potential).md",
+                "file": "PropTech - NODEARA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PropTech Names (Potential)"
+              "title": "Backlinks for PropTech - NODEARA"
             }
           },
           {
@@ -282,8 +296,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "66f9ff14927aacfa",
+  "active": "1174454f84d02551",
   "lastOpenFiles": [
+    "3_Product_Development/PropTech Names (Potential).md",
+    "PropTech - NODEARA.md",
     "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
     "3_Product_Development/FULL BUILT & MVP PHASE 2.md",
     "3_Product_Development/Brain_Dump_PropTech.md",
@@ -297,7 +313,6 @@
     "3_Product_Development/No Code Learning (Self).md",
     "3_Product_Development/No Code Learning - Online Resources.md",
     "3_Product_Development/proptech_mvp_brief.md",
-    "3_Product_Development/PropTech Names (Potential).md",
     "1. Earth Grid (perhaps as product name for PropTech).md",
     "3_Product_Development/proptech_membership_model (1.0).md",
     "3_Product_Development/proptech_membership_model.md",
@@ -316,7 +331,6 @@
     "2_Funding_&_Grants/247E1000",
     "PropTech_Funding.md",
     "05",
-    "README.md",
     "2_Funding_&_Grants/Untitled",
     "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
     "Templates",
