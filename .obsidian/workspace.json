@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PropTech - NODEARA.md",
+                "file": "3_Product_Development/Nodeara_Brand_Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PropTech - NODEARA"
+              "title": "Nodeara_Brand_Map"
             }
           }
         ],
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PropTech - NODEARA.md",
+                "file": "3_Product_Development/Nodeara_Brand_Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PropTech - NODEARA"
+              "title": "Backlinks for Nodeara_Brand_Map"
             }
           },
           {
@@ -298,8 +298,9 @@
   },
   "active": "1174454f84d02551",
   "lastOpenFiles": [
+    "3_Product_Development/PropTech - NODEARA.md",
+    "3_Product_Development/Nodeara_Brand_Map.md",
     "3_Product_Development/PropTech Names (Potential).md",
-    "PropTech - NODEARA.md",
     "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
     "3_Product_Development/FULL BUILT & MVP PHASE 2.md",
     "3_Product_Development/Brain_Dump_PropTech.md",
@@ -329,7 +330,6 @@
     "Untitled",
     "2_Funding_&_Grants/1EE2B100",
     "2_Funding_&_Grants/247E1000",
-    "PropTech_Funding.md",
     "05",
     "2_Funding_&_Grants/Untitled",
     "2_Funding_&_Grants/PropTech_Funding_MERGED_Annotated.csv",
