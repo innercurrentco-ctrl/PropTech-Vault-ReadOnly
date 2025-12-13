@@ -209,12 +209,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NODEARA - GLOBAL MARKETING STRATEGIES.md",
+                "file": "3_Product_Development/No Code Study Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NODEARA - GLOBAL MARKETING STRATEGIES"
+              "title": "No Code Study Plan"
             }
           }
         ],
@@ -291,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NODEARA - GLOBAL MARKETING STRATEGIES.md",
+                "file": "3_Product_Development/No Code Study Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +301,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NODEARA - GLOBAL MARKETING STRATEGIES"
+              "title": "Backlinks for No Code Study Plan"
             }
           },
           {
@@ -368,8 +368,10 @@
   },
   "active": "7f1cb8d57f02b4d7",
   "lastOpenFiles": [
-    "NODEARA payment_rewards_summary.md",
+    "3_Product_Development/No Code Learning (Self).md",
+    "3_Product_Development/No Code Learning - Online Resources.md",
     "NODEARA - GLOBAL MARKETING STRATEGIES.md",
+    "NODEARA payment_rewards_summary.md",
     "~$Nodeara_Global_Trust_Framework.xlsx",
     "Nodeara_Global_Trust_Framework.xlsx",
     "POTENTIAL REVENUE STREAMS - NODEARA.md",
@@ -379,8 +381,6 @@
     "3_Product_Development/FULL BUILT & MVP PHASE 2.md",
     "3_Product_Development/GARY MAK- PROPTECH SUMMARY.md",
     "3_Product_Development/NO CODE _ JS LEARNING (LATEST) - FOLLOW THIS ONE.md",
-    "3_Product_Development/No Code Learning - Online Resources.md",
-    "3_Product_Development/No Code Learning (Self).md",
     "3_Product_Development/PropTech - NODEARA.md",
     "3_Product_Development/PropTech Names (Potential).md",
     "3_Product_Development/proptech_membership_model.md",
