@@ -94,10 +94,13 @@ Influencers/KOL marketing
 - Influencers are free to sign-up, we get fractional/admin fees on every share)
 	- Normal share
 	- Full comment video like a movie review video (durations will have to be determined)
-	- ad framing/lower banner will have to be part of the video
+	- ad framing/lower banner will have to be part of the video  (*we have to figure out how)
+	
 - Top Influencer's marketplace
 	- If the top influencers is a realtor, we'll waive their subscription
 	- Influencer's put their own price tag on 
+	- We should recruit influencers to the marketplace 
+	
 - Video production
 	- Influencers can opt to film and photo shoot listing for sellers or landlord free or have them pay (both parties agree - Nodeara take minimal fees off if influencers charges) 
 		- If influencers charges - their video can now be share by other prominent influencers on our marketplace
@@ -105,4 +108,80 @@ Influencers/KOL marketing
 		- 24 hour window to respond, if not, next influencers get to lobby to film (rules of Nodeara)
 		- 
 
-*Ultimately, sellers and advertisers pay (that's the trick)
+*Ultimately, sellers and advertisers pay (that's the trick) - stays under 0.25% less or set fix fees than selling with agents, because they can top it up with working with an agent , so don't want to add onto the burden. Agents can contribute on behalf of clients
+
+Vetted Buyers - how do we reward buyers who want to be vetted. Edge cases, we have to use AI to eliminate vetted buyers (can't be a vetted buyer by being an agent)
+
+Agent can refer deals to other agents using our data-pool of agents, again they pay the referral fee, we don't get involved with charging admin fee on this to not get into the brokerage laws
+
+Chatgpt's Response to my December 28th's brainstorming of marketing
+### ✅ **Source Read (Short + Precise)**
+
+Your December 28 updates strongly clarify that:
+
+- The _true core_ of Nodeara isn’t just listings—it’s a **liberated, social-first marketplace** powered by creator-style storytelling (realtors, sellers, influencers).
+    
+- Your model hinges on **influencers** to create trust and reach, **advertisers** to subsidize costs, and **agents** as optional layers—not gatekeepers.
+    
+- You’re aware of your current **infra limits** (e.g., video/photo hosting) and plan to **bootstrap distribution via platforms like TikTok, Instagram, YouTube** before going full-stack.
+    
+
+---
+
+### ⚙️ **Strategies (From CTO + Co-Founder Lens)**
+
+#### 1. **Influencer Engine: Start with Relatable Creators, Not Celebs**
+
+- Target everyday creators doing **real estate tours**, **design reviews**, or **house-hunting vlogs**—they’re _hungry for monetization_ and _more open to partnerships_.
+    
+- Offer early **affiliate-like rev shares** or **listing credits** to them for every share/post they drive.
+    
+- Create 1–3 viral **templates** (like TikTok capcuts) that realtors/sellers can easily reuse.
+    
+
+#### 2. **Interim Tech Stack: Don't Build In-House Yet**
+
+- Use **YouTube Shorts/Instagram** to host video content and embed on Nodeara.
+    
+- Use **Firebase or AWS Light Storage** only for basic metadata, not full content.
+    
+- Outsource AI/ML tools via **APIs** (e.g., for photo cleanup, smart tags) until full dev team is in place.
+    
+
+#### 3. **Fractional Ad Revenue Model**
+
+- Explore **co-branded listings**: influencers promote listings + advertisers can “sponsor” content (e.g., home goods brands).
+    
+- Use influencer’s personal codes for tracking → you charge advertisers small CPM or CPC.
+    
+- Must show early **attention metrics** (views/clicks) to entice advertisers.
+    
+
+#### 4. **MVP Focus:**
+
+- MVP is NOT the social platform—it’s a **social-ready listing microsite** with:
+    
+    - Templated media format (quickly customized)
+        
+    - Simple CRM for DMs or follow-ups
+        
+    - Sharable link with click/view tracking
+        
+- Seed funds go to **dev, influencer partnerships, and pilot content marketing.**
+    
+
+---
+
+### ⚠️ **Loose Ends & Fixes (Action-Oriented)**
+
+|Loose End|Fix|
+|---|---|
+|Unsure how to pay for storage|Don’t. Use social embeds for 6–12 months.|
+|No initial influencer traction|Start with 3 local creators. Offer real equity bonus for growth.|
+|No clear incentive for advertisers|Build 3 sample case studies (e.g., “Kitchen sponsor X got 6,000 views from Y tour”)|
+|Not enough revenue from listing|Layer in affiliate tools: staging companies, home insurance, local shops. Monetize through partnerships.|
+|Platform not sticky|Add _watchlists_, _chat prompts_, and _creator spotlights_. Focus on community, not just utility.|
+
+---
+
+Let me know if you want this summarized visually or turned into a planning board. You're making solid strides—just need to ruthlessly scope the MVP and get to those first few proof points.
