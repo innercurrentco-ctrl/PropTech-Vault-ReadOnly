@@ -76,3 +76,33 @@ Revenue Stream Legality Notes
 |Social promotion (optional)|✅|Paid marketing – make sure it’s disclosed as “sponsored”|
 |Lockbox + scheduling tools|✅|Hardware/software access – not regulated by RECO|
 |Marketplace contractor payments|✅|Contractors = third-party hires by users (Nodeara just enables)|
+
+Economics of Nodeara
+December 28th, 2025
+Additional thoughts - Free members to upload (Sellers or Landlords)
+-Minimal data requirements - convenient and ease of usage
+Free members for buyers (viewerships and lead gen targets - signed their rights to be advertised by our advertisers and lead gen contacts for our agents or brokerage's contact - agent/brokerage must a subscriber - the play is to use this to get agent/brokerages to pay us subscription)
+-vetted buyers - higher value leads- vetted by codes and AI chatbot (with pre-determine questions)  - also Nodeara will funnel higher vetted seller's listing to these folks via algorithm - now since they won't paying, yet have a choice to choose whether they want to be contacted by agents or law firms to represent them when the time comes - if they choose to opt to be contacted, they are the highest form of lead for direct seller, agents or law firms
+-vetted sellers - vetted by codes and AI chatbots, will direct them to vetted buyers via AI profile matches - can link direct conversations (if vetted buyer choose to change mind, the software will tell them)
+- Agents (selected ones will have 2 years of free full membership), they can extend their free memberships by referring other agents or brokerages to use. Whatever amount the subscription fee the people they referred, 30% goes back to pay for their memberships. 
+	- Agents can make money if they're just sharing listing (without actual representation as vetted sellers already consent and freemium sellers that opt to share listing function will also do so), Nodeara gets admin/fractional fees on every share
+	- Agents can opt to show buyers or tenants (while no money to them, if they convert, then it's money to them, and we give them CRM - personal scheduler as part of membership fee and also we give them )
+	- Agents can advertise (Nodeara will have to determine - guidelines - this is extra revenue stream
+	- Agents can post their own listings on Nodeara  as well as their podcast or channels (Nodeara will have to determine guidelines)
+
+Influencers/KOL marketing
+- Influencers are free to sign-up, we get fractional/admin fees on every share)
+	- Normal share
+	- Full comment video like a movie review video (durations will have to be determined)
+	- ad framing/lower banner will have to be part of the video
+- Top Influencer's marketplace
+	- If the top influencers is a realtor, we'll waive their subscription
+	- Influencer's put their own price tag on 
+- Video production
+	- Influencers can opt to film and photo shoot listing for sellers or landlord free or have them pay (both parties agree - Nodeara take minimal fees off if influencers charges) 
+		- If influencers charges - their video can now be share by other prominent influencers on our marketplace
+		- if incluencers does not charge - they have the right to get a fractional fee from other influencer's sharing just like Nodeara , Nodeara will take less in these deals, but they're encouraged , this keeps the sellers' costs to minimal 
+		- 24 hour window to respond, if not, next influencers get to lobby to film (rules of Nodeara)
+		- 
+
+*Ultimately, sellers and advertisers pay (that's the trick)
