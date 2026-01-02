@@ -185,3 +185,13 @@ Your December 28 updates strongly clarify that:
 ---
 
 Let me know if you want this summarized visually or turned into a planning board. You're making solid strides—just need to ruthlessly scope the MVP and get to those first few proof points.
+
+Dec 29th's Thoughts
+Use gaming and dating software's algorithm to match make  sellers to buyers, sellers & buyers to service providers (algorithm plus AI)
+
+For areas whereby the offers can be automated:
+	1. Sellers get to choose to accept bids, show number of bids to all parties
+	2. Sellers can choose open/closed auctions
+	3. Buyers need to register
+	4. Arrange locally with escrow companies of holding the deposit funds (automated)
+	5. In the future if it's token or energy currencies, then the platform can take on deposit in a clean secure ledger
