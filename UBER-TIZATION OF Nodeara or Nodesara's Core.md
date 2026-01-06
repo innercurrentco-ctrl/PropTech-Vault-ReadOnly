@@ -195,3 +195,15 @@ For areas whereby the offers can be automated:
 	3. Buyers need to register
 	4. Arrange locally with escrow companies of holding the deposit funds (automated)
 	5. In the future if it's token or energy currencies, then the platform can take on deposit in a clean secure ledger
+
+Jan 3rd 2026
+Listing should grab from (eventually local MLS data tie-in if we can get it in the near future)  or grab it from Google Drive or Apple Drive or Dropbox or Weshare. Agents or owners can use the AI help to write listings and upload photos or videos.   
+
+Listing write up should be pricing, closing date preferred and 5 major features, rest can be on a summary page that can be pulled from requesting for more information. 30 sec video, long form video and 10 photos slide. Again, more information can be pulled, but upfront should be quick easy and direct 
+
+Cases
+Influencers help do the video
+Video posts from other platforms from Influencers' social media account
+
+Influencers have to access video and photos that the owner has done and give it's update (like a movie review video) 
+
