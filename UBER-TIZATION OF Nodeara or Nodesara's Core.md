@@ -207,3 +207,5 @@ Video posts from other platforms from Influencers' social media account
 
 Influencers have to access video and photos that the owner has done and give it's update (like a movie review video) 
 
+Jan 5 2026
+Now I have to think about how to encourage people to upload their free listings
