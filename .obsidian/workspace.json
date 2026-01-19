@@ -321,16 +321,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
+                "file": "3_Product_Development/JAN 17TH 2026 _NODERARA_MVP_TRACKER_notion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UBER-TIZATION OF Nodeara or Nodesara's Core"
+              "title": "JAN 17TH 2026 _NODERARA_MVP_TRACKER_notion"
+            }
+          },
+          {
+            "id": "4375c2d9050b3cb6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -403,7 +415,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +424,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UBER-TIZATION OF Nodeara or Nodesara's Core"
+              "title": "Backlinks"
             }
           },
           {
@@ -478,10 +489,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e314ab7693847b8b",
+  "active": "4375c2d9050b3cb6",
   "lastOpenFiles": [
-    "NODEARA - GLOBAL MARKETING STRATEGIES.md",
     "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
+    "3_Product_Development/JAN 17TH 2026 _NODERARA_MVP_TRACKER_notion.md",
+    "NODEARA - GLOBAL MARKETING STRATEGIES.md",
     "2_Funding_&_Grants/Jan 3 2026_NODEARA_Ownership_Strategy_2026.md",
     "2_Funding_&_Grants/Jan 3 2026 FOUNDER_EQUITY_STRATEGY.md",
     "Untitled.base",
@@ -510,7 +522,6 @@
     "3_Product_Development/No Code Learning (Self).md",
     "3_Product_Development/mvp_fullbuild_learning 1.md",
     "~$Nodeara_Global_Trust_Framework.xlsx",
-    "3_Product_Development/PropTech - NODEARA.md",
     "Nodeara_Global_Trust_Framework.xlsx",
     "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
     "2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx",
