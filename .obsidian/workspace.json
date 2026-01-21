@@ -333,12 +333,14 @@
             "id": "4375c2d9050b3cb6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Jan 19 2026_Nodeara_CTO_Investor_Events_2026"
             }
           }
         ],
@@ -415,6 +417,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -424,7 +427,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Jan 19 2026_Nodeara_CTO_Investor_Events_2026"
             }
           },
           {
@@ -491,6 +494,8 @@
   },
   "active": "4375c2d9050b3cb6",
   "lastOpenFiles": [
+    "3_Product_Development/proptech_membership_model (1.0).md",
+    "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
     "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
     "3_Product_Development/JAN 17TH 2026 _NODERARA_MVP_TRACKER_notion.md",
     "NODEARA - GLOBAL MARKETING STRATEGIES.md",
@@ -519,8 +524,6 @@
     "2_Funding_&_Grants/CANAIDAN FUNDING SOURCES.md",
     "FUTURE LINKEDIN POST IDEAS FOR NODEARA.md",
     "3_Product_Development/DEC 14th 2025 FLUTTER & NODE JS DUAL LEARNING.md",
-    "3_Product_Development/No Code Learning (Self).md",
-    "3_Product_Development/mvp_fullbuild_learning 1.md",
     "~$Nodeara_Global_Trust_Framework.xlsx",
     "Nodeara_Global_Trust_Framework.xlsx",
     "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
