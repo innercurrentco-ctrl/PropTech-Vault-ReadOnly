@@ -342,9 +342,21 @@
               "icon": "lucide-file",
               "title": "Jan 21 2026 - FUTURE NODEARA LINKEDIN POST"
             }
+          },
+          {
+            "id": "a2e51deaf41a1ce2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "vertical"
@@ -417,7 +429,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3_Product_Development/Jan 21 2026 - FUTURE NODEARA LINKEDIN POST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +438,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Jan 21 2026 - FUTURE NODEARA LINKEDIN POST"
+              "title": "Backlinks"
             }
           },
           {
@@ -492,7 +503,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "4375c2d9050b3cb6",
+  "active": "a2e51deaf41a1ce2",
   "lastOpenFiles": [
     "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
     "3_Product_Development/proptech_membership_model (1.0).md",
