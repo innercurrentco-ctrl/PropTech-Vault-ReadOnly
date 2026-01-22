@@ -347,12 +347,14 @@
             "id": "a2e51deaf41a1ce2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "Jan 19 2026_Nodeara_CTO_Investor_Events_2026"
             }
           }
         ],
@@ -429,6 +431,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -438,7 +441,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Jan 19 2026_Nodeara_CTO_Investor_Events_2026"
             }
           },
           {
