@@ -209,3 +209,6 @@ Influencers have to access video and photos that the owner has done and give it'
 
 Jan 5 2026
 Now I have to think about how to encourage people to upload their free listings
+
+Jan 21 2026
+Long term, how would I connect with value exchange system. Real Estate is a starting point. What next, energy exchange services? One generate energy and one create products, others create services ?   Use of blockchain or what's a better conscious 5D aligned system than blockchain? Measure how much energy the system produces and channel towards or safeguard that energy? Waste prevent and energy conservation fine, yet it has to balance with energy generation and the usage, do we grade it and set rewards? It has to align with purposeful services, not mindless content creation which we currently have. I think it's still better as we speak with content creation, it destabilizes main stream media.   Generate, Creativity, Conserve,  Preserve and Transformation of Energy societies on this planet. How does that align with 5D, one may ask?
