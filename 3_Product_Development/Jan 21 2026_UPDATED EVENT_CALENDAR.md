@@ -57,7 +57,7 @@ A curated calendar of events selected to align with strategic goals for Nodeara'
 - **Topic**: Early-stage networking for builders, founders
 - **Link**: [Global Startups Club TO](https://www.eventbrite.ca/e/global-startups-club-jan24-tickets-7777777777)
 
-### **Feb 12 – Design After-Hours TO**
+###**Feb 12 – Design After-Hours TO**
 - **Audience**: UX/UI designers, creative community
 - **Link**: [Design After-Hours TO](https://www.eventbrite.ca/e/design-after-hours-feb12-tickets-7777777777)
 
