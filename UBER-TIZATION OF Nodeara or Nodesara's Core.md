@@ -215,3 +215,6 @@ Long term, how would I connect with value exchange system. Real Estate is a star
 
 Jan 27 2026
 To skip around the showing houses part, we can sell or lease locks with time code for owner's approval.  Sellers can choose to surveillance their homes or not.   Buyers/Tenants will need to be IDed (without agent) or in the future, go with a robot or 'Nodeara agents - every shown agent gets fractional rewards - but have to prevent spamming showings for making money - I think owners to reward upon finalizing' . I think the marketing piece with creator's economy should still be the ultimate goal
+
+Feb 5 2026
+What is the possibly to get into digital wallet and investments. That way the currency stays in the eco-system. While this is a tease to Marvin, who'll be likely opening up his private investment firms or hedge fund, can Nodeara be a portal for more investment advise and automation for lower free clients while we build Ai agents within the system plus investment team to work with higher stake clients. This is my thinking, and we charge admin fee  (feels like we're the digital bank as well). Really if 'Value Exchange' is everything to Nodeara, then it may sense, beyond Real Estate. 
