@@ -356,9 +356,21 @@
               "icon": "lucide-file",
               "title": "UBER-TIZATION OF Nodeara or Nodesara's Core"
             }
+          },
+          {
+            "id": "6aeb51e5c1044d0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -431,7 +443,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -441,7 +452,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UBER-TIZATION OF Nodeara or Nodesara's Core"
+              "title": "Backlinks"
             }
           },
           {
@@ -506,7 +517,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "a2e51deaf41a1ce2",
+  "active": "6aeb51e5c1044d0d",
   "lastOpenFiles": [
     "3_Product_Development/Jan 21 2026_UPDATED EVENT_CALENDAR.md",
     "UBER-TIZATION OF Nodeara or Nodesara's Core.md",
