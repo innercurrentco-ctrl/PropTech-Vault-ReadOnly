@@ -218,3 +218,6 @@ To skip around the showing houses part, we can sell or lease locks with time cod
 
 Feb 5 2026
 What is the possibly to get into digital wallet and investments. That way the currency stays in the eco-system. While this is a tease to Marvin, who'll be likely opening up his private investment firms or hedge fund, can Nodeara be a portal for more investment advise and automation for lower free clients while we build Ai agents within the system plus investment team to work with higher stake clients. This is my thinking, and we charge admin fee  (feels like we're the digital bank as well). Really if 'Value Exchange' is everything to Nodeara, then it may sense, beyond Real Estate. 
+
+Feb 11 2026
+Buyers or Agents contact via app and website like eBay. Nodeara's ai agent can receive verbal wants and offerings (not actual offers) and then point them to a lawyer to settle the deal.  Discussed deal details can be summed up to send to respective lawyers or agents to wrap up the deal.   What was discussed and agree will be provided to both sides (not a legal document but an understand of what was agreed in principle)
