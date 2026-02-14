@@ -221,3 +221,9 @@ What is the possibly to get into digital wallet and investments. That way the cu
 
 Feb 11 2026
 Buyers or Agents contact via app and website like eBay. Nodeara's ai agent can receive verbal wants and offerings (not actual offers) and then point them to a lawyer to settle the deal.  Discussed deal details can be summed up to send to respective lawyers or agents to wrap up the deal.   What was discussed and agree will be provided to both sides (not a legal document but an understand of what was agreed in principle)
+
+Feb 13 2026
+
+Creator -> Views -> Vetting -> Conversions
+
+Ai - Assistance per user (Custom GPT) with memory stored structurally

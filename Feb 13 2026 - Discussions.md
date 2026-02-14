@@ -186,3 +186,4 @@ All 4 roles can _become each other_ over time — like Uber’s rider/driver fly
 
 Yes: You _can_ embed me or a fine-tuned model into the platform to answer buyer/seller FAQs, explain forms, and handle basic triage.  
 That’ll _increase trust_ → more lead conversion.
+
