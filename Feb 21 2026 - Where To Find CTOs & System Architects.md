@@ -164,3 +164,195 @@ Full system architect or CTO
 
 Do NOT overbuild before traction.
 Build modular foundation.
+
+##Where to find these people (Feb 26, 2026):
+
+You do NOT need:
+
+- A generic full-stack dev
+    
+- A Flutter maintainer
+    
+- A UI builder
+    
+- A cheap overseas coder
+    
+- A “CTO” who just manages contractors
+    
+
+You need a **Marketplace Systems Architect** who understands:
+
+- Attribution pipelines
+    
+- Incentive balancing
+    
+- Payout weighting
+    
+- Anti-fraud mechanics
+    
+- Event-driven backend design
+    
+- API-first infrastructure
+    
+- Scalable data architecture
+    
+
+Not someone who “can build an app.”
+
+Someone who can design systems.
+
+---
+
+# First: Reality Check on “Not Flutter”
+
+Be careful here.
+
+The tech stack is secondary.
+
+Architecture > language.
+
+If you throw away Flutter just because it’s Flutter, that’s emotional.
+
+If Flutter cannot support:
+
+- Real-time tracking
+    
+- Modular API architecture
+    
+- Scalable backend separation
+    
+- Event-based processing
+    
+
+Then fine, migrate.
+
+But if your partner’s mock is just UI scaffolding and backend logic is still early — you can re-architect without burning it all.
+
+Don’t let ego kill optionality.
+
+---
+
+# Second: Equity for Architect
+
+You said:
+
+Full-stack, iOS + Android, upside later, fractional shares.
+
+Here’s the honest structure:
+
+### Part-Time Founding Architect (6–12 months build phase)
+
+0.75% – 1.5%  
+4-year vesting  
+1-year cliff
+
+### True CTO (if full-time, owning tech direction long-term)
+
+3% – 5%  
+4-year vesting  
+Board-level influence  
+Technical ownership
+
+If someone demands 10%+ without traction, walk away.
+
+Discipline now saves regret later.
+
+---
+
+# Third: What You Actually Need Built
+
+Strip everything down.
+
+The first real version must include:
+
+1. Campaign Object (Core)
+    
+2. Creator Tracking Layer
+    
+3. Unique Session Attribution
+    
+4. Weighted Payout Engine (even semi-manual)
+    
+5. Reporting Dashboard
+    
+6. Clean API structure
+    
+
+That’s it.
+
+No:
+
+- Auctions
+    
+- Escrow
+    
+- Lockboxes
+    
+- AI negotiation
+    
+- Token wallets
+    
+- Brokerage replacement
+    
+
+If an architect starts expanding scope, that’s the wrong architect.
+
+---
+
+# Fourth: Where to Find This Person
+
+You already outlined it well in your doc.
+
+Now let me refine it.
+
+Target people who have worked at:
+
+- Influencer marketing startups
+    
+- Creator monetization platforms
+    
+- Ad measurement companies
+    
+- Live commerce startups
+    
+- Marketplace startups under 100 employees
+    
+- Growth attribution roles
+    
+
+Avoid:
+
+- Big corporate engineers
+    
+- Enterprise-only backend devs
+    
+- Pure Web3 hype engineers
+    
+- Pure UI/UX specialists
+    
+
+You want someone who gets:
+
+“Incentives break platforms.”
+
+That’s the intelligence filter.
+
+---
+
+# Fifth: Your Pitch to Them
+
+Not:
+
+“Proptech revolution.”
+
+Not:
+
+“5D value exchange.”
+
+Say this:
+
+“We are building an attribution and incentive layer for live property marketing. We need someone who can design the backend infrastructure for campaign routing, creator payouts, and measurable attention scoring.”
+
+Engineers respond to clarity.
+
+Not ideology.
