@@ -558,9 +558,49 @@
               "icon": "lucide-file",
               "title": "Feb 27th 2026_Nodeara_12_Month_Execution_Roadmap"
             }
+          },
+          {
+            "id": "1fce75f655a55e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "9fa5d6bf477f31c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_Thoughts & Vision Progression/March 2 2026_Nodeara_MVP_Execution_Charter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "March 2 2026_Nodeara_MVP_Execution_Charter"
+            }
+          },
+          {
+            "id": "540ccbbe1f0038de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 38
+        "currentTab": 41
       }
     ],
     "direction": "vertical"
@@ -719,10 +759,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "68affe60308a291c",
+  "active": "540ccbbe1f0038de",
   "lastOpenFiles": [
-    "5_Thoughts & Vision Progression/Feb 9th 2026 - Nodeara_Canonical_Master_Context.md",
+    "Untitled 1.md",
+    "5_Thoughts & Vision Progression/March 2 2026_Nodeara_MVP_Execution_Charter.md",
+    "3_Product_Development/~$deara_open_close_routine.docx",
+    "3_Product_Development/March 2 2026_CURSOR_nodeara_open_close_routine.docx",
+    "Untitled.md",
     "5_Thoughts & Vision Progression/Feb 27th 2026_Nodeara_12_Month_Execution_Roadmap.md",
+    "5_Thoughts & Vision Progression/Feb 9th 2026 - Nodeara_Canonical_Master_Context.md",
     "5_Thoughts & Vision Progression/Feb 11 2026 _ Finding Collaboration Partners.md",
     "5_Thoughts & Vision Progression/Feb 9th 2026 - Nodeara_Master_Context.md",
     "5_Thoughts & Vision Progression/FEB 9, 2026 - NODEARA'S CANONICAL ITEM PART 3.md",
@@ -749,15 +794,10 @@
     "3_Product_Development/Jan 21 2026 - FUTURE NODEARA LINKEDIN POST.md",
     "3_Product_Development/Jan 19 2026_Nodeara_CTO_Investor_Events_2026.md",
     "3_Product_Development/proptech_membership_model (1.0).md",
-    "3_Product_Development/JAN 17TH 2026 _NODERARA_MVP_TRACKER_notion.md",
-    "5_Thoughts & Vision Progression/NODEARA - GLOBAL MARKETING STRATEGIES.md",
-    "2_Funding_&_Grants/Jan 3 2026_NODEARA_Ownership_Strategy_2026.md",
     "5_Thoughts & Vision Progression",
     "5_Thoughts & Vision Progression/Nodeara_Global_Trust_Framework.xlsx",
     "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
     "2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx",
-    "2_Funding_&_Grants/1EE2B100",
-    "2_Funding_&_Grants/247E1000",
-    "05"
+    "2_Funding_&_Grants/1EE2B100"
   ]
 }
