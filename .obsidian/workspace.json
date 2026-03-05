@@ -647,12 +647,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6_MVP_System_Architecture/Nodeara Custom GPT_MVP_to_Production.md",
+                "file": "6_MVP_System_Architecture/Nodeara_Architecture_Flowchart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nodeara Custom GPT_MVP_to_Production"
+              "title": "Nodeara_Architecture_Flowchart"
             }
           }
         ],
@@ -815,18 +815,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "2b200db5e3ec478b",
+  "active": "6896922ddf2b7f85",
   "lastOpenFiles": [
-    "7_Full_Stack_System Architecture",
-    "Untitled.md",
+    "POTENTIAL REVENUE STREAMS - NODEARA.md",
     "6_MVP_System_Architecture/Nodeara Custom GPT_MVP_to_Production.md",
     "6_MVP_System_Architecture/Nodeara Architect Custrom GPT_nodeara_source_alignment_sections.md",
+    "6_MVP_System_Architecture/March 4 2026_nodeara_MVP_backend_blueprint.md",
+    "6_MVP_System_Architecture/March 4 2026_nodeara_backend_documentation.md",
+    "6_MVP_System_Architecture/Nodeara_Architecture_Flowchart.md",
+    "7_Full_Stack_System Architecture",
+    "Untitled.md",
     "6_MVP_System_Architecture/Nodeara Architect_Custom GPT Setup_nodeara_system_architecture.md",
     "6_MVP_System_Architecture/Nodeara Architect_Custom GPT Setup_nodeara_mvp_roadmap.md",
     "6_MVP_System_Architecture/Nodeara Architect_Custom GPT Setup_nodeara_intelligence_loop.md",
     "6_MVP_System_Architecture/Nodeara Architect_Custom GPT Setup_nodeara_backend_rules.md",
-    "6_MVP_System_Architecture/March 4 2026_nodeara_MVP_backend_blueprint.md",
-    "6_MVP_System_Architecture/March 4 2026_nodeara_backend_documentation.md",
     "Untitled.base",
     "Untitled 1.base",
     "Untitled 2.md",
@@ -847,13 +849,11 @@
     "5_Thoughts & Vision Progression/Feb 21 2026 - Where To Find CTOs & System Architects.md",
     "5_Thoughts & Vision Progression/Feb 21 2026 - Pre-Seed Investors Strategy.md",
     "5_Thoughts & Vision Progression/Feb 21 2026 - Nodeara – Live Digital Open House + Attention Pool Model (Phase A Lock-In).md",
-    "POTENTIAL REVENUE STREAMS - NODEARA.md",
     "~$Nodeara_Global_Trust_Framework.xlsx",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "5_Thoughts & Vision Progression",
     "5_Thoughts & Vision Progression/Nodeara_Global_Trust_Framework.xlsx",
-    "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx",
-    "2_Funding_&_Grants/Starter Plus (IDEA Mississauga).pptx"
+    "2_Funding_&_Grants/~$Starter Plus (IDEA Mississauga).pptx"
   ]
 }
