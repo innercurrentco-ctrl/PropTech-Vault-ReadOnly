@@ -238,7 +238,9 @@ That’s the full outline. Next step is we **turn this into an implementation pl
 
 ---
 
+## Copy-paste prompt for a new room
 
+Paste this into the new chat:
 
 We are building Nodeara: a real-estate intent intelligence platform.  
 I need you to produce:  
